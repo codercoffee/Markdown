@@ -22,7 +22,7 @@ CocoaPods使用Ruby语言编写而成。因此需要Ruby的环境, 庆幸的是O
 
 #### 2.移除Ruby的源
 
-> gem source -- remove [https://rubygems.org/](https://rubygems.org/)
+> gem source --remove [https://rubygems.org/](https://rubygems.org/)
 > 
 > 移除结果如下:
 > 
